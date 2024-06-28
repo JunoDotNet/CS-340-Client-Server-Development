@@ -1,7 +1,6 @@
-## CS-340-Client-Server-Development
+# CS-340-Client-Server-Development
 
-# How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
-# How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+In this project, there are several different best practices followed when ensuring code is maintainable, readable, and adaptable. This practice became especially apparent when developing the CRUD Python module. One of the keystone methods of ensuring that code is optimal is using modular design. The modular design breaks down the program into smaller, self-contained modules that each handle specific functionality. This makes the code easier to understand, test, and maintain. My CRUD module allowed me to create a reusable, easily maintainable component that could be integrated into various projects, such as connecting dashboard widgets to a database.
 
-# What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+In this project, it was crucial that I approached this course with a methodical and analytical process.  For the Grazioso Salvare project, this meant identifying specific database and dashboard needs. This was the first project that required me to develop a web dashboard. This process was frustrating in the beginning but the results were very much worth the trouble.  
